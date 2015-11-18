@@ -1,0 +1,49 @@
+<html>
+<body width='750'>
+
+<h1>Controls</h1>
+
+<p>
+To select a bone in your hand, click with the mouse or use &uarr; and &darr; on the keyboard <br/>
+
+To play a bone on the left of the table, click on the highlighted 'L' icon on the table or press either &larr; or L on the
+keyboard<br/>
+
+To play a bone on the right of the table, click on the highlighted 'R' icon on the table or press either &rarr; or R on the
+keyboard<br/>
+
+To draw a bone from the boneyard or pass your turn, click on the boneyard or press the space bar<br/>
+
+To start a new game, press CTRL + N.
+</p>
+
+<h1>How to play Dominoes</h1>
+
+<p>Dominoes is played with a set of tiles, also known as bones, labelled with two numbers. If playing with a set of Double-6 
+dominoes, these numbers range from 0 - 6. Other less common sets include Double-9 and Double-12. This game lets you play
+with any set between Double-4 (for a very short game) and Double-9 (for a long game).</p><br/>
+
+<p>The goal is to win rounds by getting rid of all the bones in your hand, or if neither player can play, having 
+the lowest weight hand. The weight of a hand is the sum of all the numbers on the bones in your hand. 
+The winner of the round wins a number of points equal to the weight of the loser's hand.
+The game is over after a specified number of points.</p><br/>
+
+<p>Each player starts a round by taking 7 bones. The left over bones are known as the boneyard.
+The game can start either by a random player drawing an eighth tile from the boneyard and playing it immediately,
+or by the player with the highest doublet(a tile which has the same numbers on each half) playing first.</p><br/>
+
+<p>For the remainder of the game the players take turns playing bones from their hand on
+the table. A player can play a bone on the table by matching a number on their bone to a
+bone on the ends of the layout (the bones already played). There are only two possible places
+to play each turn, one on the left and one on the right of the layout. The
+number on the other side of the domino (the one not matched) will become the new left or
+right hand number of the layout. </p><br/>
+
+<p>If a player cannot play, they must draw bones from the boneyard until they can play. If the
+boneyard is empty, then the player must pass their turn. The round ends when a player
+plays all of their bones, or when both players pass (in succession). The winner is the player with the lowest
+weight hand, and collects points equal to the weight of the loser's hand. The game is over
+when a player scores a predetermined number of points (the default is 100).</p>
+
+</body>
+</html>
